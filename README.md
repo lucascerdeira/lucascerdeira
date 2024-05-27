@@ -1,6 +1,6 @@
 ### Hi, welcome my profile 👋
 
-## My name is Lucas Cerdeira, I'm 26 years old 
+## My name is Lucas Cerdeira, I'm 28 years old 
 
 
 - 🔭  I'm studying Systems Analysis and Development at the College of Technology of Sao Caetano do Sul.
