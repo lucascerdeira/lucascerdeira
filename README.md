@@ -4,7 +4,7 @@
 
 
 - 🔭  I'm studying Systems Analysis and Development at the College of Technology of Sao Caetano do Sul.
-- 🌱 I have experience with HTML5, CSS3, JavaScript, Python, NodeJS, C, VB.NET, VBA.
+- 🌱 I have experience with Java, SQL Oracle, Python, NodeJS, AWS.
 
 <div align="center">
   <a href="https://github.com/lucascerdeira">
